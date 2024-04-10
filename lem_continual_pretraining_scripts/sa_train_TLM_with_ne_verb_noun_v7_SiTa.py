@@ -45,7 +45,7 @@ ner_recognizer_debug_mode=False
 print_final_masking_inputs=False
 
 #inputs
-data_path='/path/to/data'
+model_name = '/best/checkpoint/path/from/mlm/experiment'
 train_file_name = "src/sentences.txt"
 valid_file_name = "tgt/sentences.txt"
 ne_pos_dict_file ="/path/to/ne-pos-noun/dict/file.pkl"
