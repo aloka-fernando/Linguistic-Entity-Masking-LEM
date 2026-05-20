@@ -17,8 +17,12 @@ If you use this work in your research, please cite the following paper:
 
 ```bibtex
 @article{fernando2025linguistic,
-  title={Linguistic Entity Masking to Improve Cross-Lingual Representation of Multilingual Language Models for Low-Resource Languages},
+  title={Linguistic entity masking to improve cross-lingual representation of multilingual language models for low-resource languages: A. Fernando, S. Ranathunga},
   author={Fernando, Aloka and Ranathunga, Surangika},
-  journal={arXiv preprint arXiv:2501.05700},
-  year={2025}
+  journal={Knowledge and Information Systems},
+  volume={67},
+  number={11},
+  pages={9905--9946},
+  year={2025},
+  publisher={Springer}
 }
